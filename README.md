@@ -44,5 +44,5 @@ $$\text{Hit \%} = \left( \frac{\text{Total Hits}}{\text{Total Games Played}} \ri
 * **Input Handling**: `java.util.Scanner`
 
 ## Author
-* **Saubidhya Pandit** - *Student at Toronto Metropolitan University*
+* **Satkar Gajurel** - *Student at Toronto Metropolitan University*
 
